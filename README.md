@@ -10,7 +10,7 @@
   <a href="https://erin-rugas.site">Portfolio</a> •
   <a href="https://erin-rugas.site/work">Work & Experience</a> •
   <a href="https://erin-rugas.site/projects">Projects</a> •
-  <a href="https://erin-rugas.site/nexufy">Nexufy</a>
+  <a href="https://thenexufy.com">Nexufy</a>
 </p>
 
 ---
@@ -109,7 +109,7 @@ I’m currently **leading technical development at Nexufy**, my software develop
   - Set up **CI/CD pipelines**, containerized deployments, and environment strategies for smooth releases.  
   - Advised clients on **architecture, scalability, and automation**, not just implementation.  
 
-> 🔗 More info: [Nexufy](https://erin-rugas.site/nexufy)
+> 🔗 More info: [Nexufy](https://thenexufy.com)
 
 ---
 

@@ -211,16 +211,18 @@ Mobile and web tools that support HR operations, employee check-in, and access c
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=erinrugas&show_icons=true&hide_border=true&count_private=true"
+ <img
+    width="60%"
+    src="https://github-readme-stats-rose-ten-65.vercel.app/api?username=erinrugas&show_icons=true&hide_border=true&count_private=true&theme=dark"
     alt="Erin's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinrugas&layout=compact&hide_border=true"
+    width="60%"
+    src="https://github-readme-stats-rose-ten-65.vercel.app/api/top-langs/?username=erinrugas&layout=compact&hide_border=true&theme=dark&langs_count=14&count_private=true"
     alt="Top Languages"
   />
-
+  
 </div>
 
 ---

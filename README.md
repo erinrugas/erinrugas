@@ -19,7 +19,7 @@
 
 I'm **Erin John Rugas**, a full stack engineer with experience building and scaling web applications end-to-end — from database and backend APIs to clean, maintainable frontends.
 
-I’m currently **leading technical development at Nexufy**, my software development service, while exploring new opportunities in full-stack engineering. :contentReference[oaicite:1]{index=1}  
+I’m currently **leading technical development at Nexufy**, my software development service, while exploring new opportunities in full-stack engineering.
 
 - 🏗️ I work mostly with **Laravel, React, and MySQL**, plus a good amount of PHP frameworks and JS tooling  
 - ⚙️ I care a lot about **automation, CI/CD, and developer experience**  
@@ -32,7 +32,7 @@ I’m currently **leading technical development at Nexufy**, my software develop
 
 ### Technical Lead / Full-stack Engineer – Nexufy  
 
-**Nexufy is my own software development service**, where I help businesses build and automate modern web applications. :contentReference[oaicite:2]{index=2}  
+**Nexufy is my own software development service**, where I help businesses build and automate modern web applications.
 
 - Lead **end-to-end delivery** of web applications and internal tools for clients, from requirements to production.  
 - Design and implement **full-stack solutions** using Laravel, React, and related technologies.  
@@ -194,13 +194,13 @@ Mobile and web tools that support HR operations, employee check-in, and access c
 `PHP` · `JavaScript / TypeScript` · `HTML` · `CSS`
 
 **Frameworks & Libraries**  
-`Laravel` · `CodeIgniter` · `ReactJS` · `InertiaJS` · `Remix` · `VueJS` ·  `jQuery` · `Bootstrap` · `TailwindCSS`
+`Laravel` · `CodeIgniter` · `ReactJS` · `InertiaJS` · `Remix / React Router Framework`  · `VueJS` ·  `jQuery` · `Bootstrap` · `TailwindCSS`
 
 **Databases**  
 `MySQL / MariaDB` · `MSSQL` · `SQLite`
 
 **Tools & Platforms**  
-`Git` · `Composer` · `NPM` · `Docker` · `GitHub Actions` · `Azure` · `Nginx` · `Apache` · `Smaregi` · `LINE API` · `Cron` · `Bash / Shell` · `Postman` · `PhpStorm` · `VS Code` · `SQS` · `Pusher` · `Redis`
+`Git` · `Composer` · `NPM` · `Docker` · `GitHub Actions` · `Cloud & Hosting` · `Nginx` · `Apache` · `Smaregi` · `LINE API` · `Cron` · `Bash / Shell` · `Postman` · `PhpStorm` · `VS Code` · `SQS` · `Pusher` · `Redis`
 
 **Other**  
 `RESTful API design` · `CI/CD` · `Linux servers` · `Data pipelines` · `Monitoring & logging`

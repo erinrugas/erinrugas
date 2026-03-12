@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://erin-rugas.site">Portfolio</a> •
-  <a href="https://erin-rugas.site/work">Work & Experience</a> •
-  <a href="https://erin-rugas.site/projects">Projects</a> •
+  <a href="https://erinjohnrugas.com">Portfolio</a> •
+  <a href="https://erinjohnrugas.com/work">Work & Experience</a> •
+  <a href="https://erinjohnrugas.com/projects">Projects</a> •
   <a href="https://thenexufy.com">Nexufy</a>
 </p>
 
@@ -229,7 +229,7 @@ Mobile and web tools that support HR operations, employee check-in, and access c
 
 ## 🌐 Connect
 
-- 🖥 Portfolio: **https://erin-rugas.site**
+- 🖥 Portfolio: **https://erinjohnrugas.com**
 - 💼 LinkedIn: **https://linkedin.com/in/erin-rugas**
 - 💻 GitHub: **https://github.com/erinrugas**
 - 📬 Email: **erinjohnrugas@gmail.com**

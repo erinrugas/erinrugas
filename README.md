@@ -21,9 +21,9 @@ I'm **Erin John Rugas**, a full stack engineer with experience building and scal
 
 I’m currently **leading technical development at Nexufy**, my software development service, while exploring new opportunities in full-stack engineering.
 
-- 🏗️ I work mostly with **Laravel, React, and MySQL**, plus a good amount of PHP frameworks and JS tooling  
+- 🏗️ I work mostly with **Laravel, React / Vue, and MySQL / PostgreSQL**, plus a good amount of PHP frameworks and JS tooling  
 - ⚙️ I care a lot about **automation, CI/CD, and developer experience**  
-- 📊 I’ve built systems around **e-commerce, CRM, reservations, membership, and internal tools**  
+- 📊 I’ve built systems around **e-commerce, Booing, CRM, reservations, membership, and internal tools**  
 - 🎧 Off-work you’ll probably find me mixing or listening to music, gaming, or reading about tech
 
 ---

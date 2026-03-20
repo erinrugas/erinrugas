@@ -205,28 +205,6 @@ Mobile and web tools that support HR operations, employee check-in, and access c
 **Other**  
 `RESTful API design` · `CI/CD` · `Linux servers` · `Data pipelines` · `Monitoring & logging`
 
----
-
-## 📈 GitHub Overview
-
-<div align="center">
-
- <img
-    width="60%"
-    src="https://github-readme-stats-rose-ten-65.vercel.app/api?username=erinrugas&show_icons=true&hide_border=true&count_private=true&theme=dark"
-    alt="Erin's GitHub Stats"
-  />
-
-  <img
-    width="60%"
-    src="https://github-readme-stats-rose-ten-65.vercel.app/api/top-langs/?username=erinrugas&layout=compact&hide_border=true&theme=dark&langs_count=14&count_private=true"
-    alt="Top Languages"
-  />
-  
-</div>
-
----
-
 ## 🌐 Connect
 
 - 🖥 Portfolio: **https://erinjohnrugas.com**

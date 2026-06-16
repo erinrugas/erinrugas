@@ -209,7 +209,7 @@ Mobile and web tools that support HR operations, employee check-in, and access c
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.erinjohnrugas.com/api?username=erinrugas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&theme=transparent" alt="Erin Rugas GitHub stats" />
-  <img height="170" src="https://github-readme-stats.erinjohnrugas.com/api/top-langs/?username=erinrugas&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Erin Rugas top languages" />
+  <img height="170" src="https://github-readme-stats.erinjohnrugas.com/api/top-langs?username=erinrugas&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Erin Rugas top languages" />
 </p>
 
 ## 🌐 Connect

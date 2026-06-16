@@ -207,10 +207,16 @@ Mobile and web tools that support HR operations, employee check-in, and access c
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.erinjohnrugas.workers.dev/api?username=erinrugas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&theme=transparent&v=2" alt="Erin Rugas GitHub stats" />
-  <img height="170" src="https://github-readme-stats.erinjohnrugas.workers.dev/api/top-langs?username=erinrugas&layout=compact&langs_count=10&hide_border=true&theme=transparent&v=2" alt="Erin Rugas top languages" />
-</p>
+<div align="center">
+
+<img width="720" src="https://github-readme-stats.erinjohnrugas.com/api?username=erinrugas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&v=5" alt="Erin Rugas GitHub Stats" />
+
+<br />
+<br />
+
+<img width="720" src="https://github-readme-stats.erinjohnrugas.com/api/top-langs?username=erinrugas&layout=compact&langs_count=10&hide_border=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&v=5" alt="Erin Rugas Top Languages" />
+
+</div>
 
 ## 🌐 Connect
 
